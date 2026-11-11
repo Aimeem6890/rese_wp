@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
+
 CSV_FILE = "renewable_dispatch.csv"
 MEAN_PRICE = 0.10
 
